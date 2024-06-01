@@ -6,11 +6,9 @@ Ce projet est en partie tiré du travail effectué lors de mon mémoire universi
 Les deux scripts sont des notebooks qui furent développés nativement sur Google Colab.
 
 ## Contenu
-- **Scrapper_Forum**: Un script pour scrapper des données d'un forum suivant une même strucutre
-  Ce scrapper utilise Selenium pour automatiser la collecte et BeauttifulSoup pour cibler et collecter les données voulues 
+- **Scrapper_Forum**: Un script pour scrapper des données d'un forum suivant une même strucutre. Ce scrapper utilise Selenium pour automatiser la collecte et BeauttifulSoup pour cibler et collecter les données voulues 
                     
-- **Analyse**: Analyse de sentiment et entropie des posts de forum
-  Le notebook est découpé en différente section ppur chacune des analyses
+- **Analyse**: Analyse de sentiment et entropie des posts de forum. Le notebook est découpé en différente section ppur chacune des analyses
 
 ## Prérequis
 - Python 3.x
