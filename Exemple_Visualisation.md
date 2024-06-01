@@ -1,7 +1,6 @@
 ## Exemple de visualisation 
 
-Voici quelques exemples de visualisation avec quelques pistes d'analyses
-
+Voici quelques exemples de visualisation qu'il est possible de réaliser avec le notebook Analyse 
 
 ## Analyse de sentiment Tesa/Zoe
 
